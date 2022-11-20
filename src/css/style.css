@@ -39,7 +39,7 @@ body {
 /* menu do mobile*/
 .menu-opener {
     display: none;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 .menu-opener img {
@@ -49,6 +49,7 @@ body {
 
 .menu-closer {
     display: none;
+    margin-right: 40px;
 }
 
 .menu-closer img {
@@ -246,10 +247,10 @@ body {
         display: block;
         margin-top: 200px;
         margin-bottom: 100px;
-        margin-right: 20px;
     }
 
    .header-navbar-links-group {
+    display: none;
     position: absolute;
     z-index: 99;
     right: 0;
